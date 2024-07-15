@@ -1,0 +1,13 @@
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\EP.Services.dll
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\EP.Services.pdb
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\EP.Data.dll
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\EP.Model.dll
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\Dapper.dll
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\EP.Data.pdb
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\EP.Model.pdb
+C:\Users\Aharon\Desktop\EP.Services\bin\Debug\Dapper.xml
+C:\Users\Aharon\Desktop\EP.Services\obj\Debug\EP.Services.csproj.AssemblyReference.cache
+C:\Users\Aharon\Desktop\EP.Services\obj\Debug\EP.Services.csproj.CoreCompileInputs.cache
+C:\Users\Aharon\Desktop\EP.Services\obj\Debug\EP.Servi.DF012D31.Up2Date
+C:\Users\Aharon\Desktop\EP.Services\obj\Debug\EP.Services.dll
+C:\Users\Aharon\Desktop\EP.Services\obj\Debug\EP.Services.pdb

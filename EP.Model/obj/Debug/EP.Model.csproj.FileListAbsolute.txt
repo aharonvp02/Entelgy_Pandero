@@ -1,0 +1,6 @@
+C:\Users\Aharon\Desktop\EP.Model\bin\Debug\EP.Model.dll
+C:\Users\Aharon\Desktop\EP.Model\bin\Debug\EP.Model.pdb
+C:\Users\Aharon\Desktop\EP.Model\obj\Debug\EP.Model.csproj.AssemblyReference.cache
+C:\Users\Aharon\Desktop\EP.Model\obj\Debug\EP.Model.csproj.CoreCompileInputs.cache
+C:\Users\Aharon\Desktop\EP.Model\obj\Debug\EP.Model.dll
+C:\Users\Aharon\Desktop\EP.Model\obj\Debug\EP.Model.pdb

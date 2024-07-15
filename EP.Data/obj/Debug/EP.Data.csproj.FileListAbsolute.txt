@@ -1,0 +1,11 @@
+C:\Users\Aharon\Desktop\EP.Data\bin\Debug\EP.Data.dll
+C:\Users\Aharon\Desktop\EP.Data\bin\Debug\EP.Data.pdb
+C:\Users\Aharon\Desktop\EP.Data\bin\Debug\Dapper.dll
+C:\Users\Aharon\Desktop\EP.Data\bin\Debug\EP.Model.dll
+C:\Users\Aharon\Desktop\EP.Data\bin\Debug\EP.Model.pdb
+C:\Users\Aharon\Desktop\EP.Data\bin\Debug\Dapper.xml
+C:\Users\Aharon\Desktop\EP.Data\obj\Debug\EP.Data.csproj.AssemblyReference.cache
+C:\Users\Aharon\Desktop\EP.Data\obj\Debug\EP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aharon\Desktop\EP.Data\obj\Debug\EP.Data.csproj.Up2Date
+C:\Users\Aharon\Desktop\EP.Data\obj\Debug\EP.Data.dll
+C:\Users\Aharon\Desktop\EP.Data\obj\Debug\EP.Data.pdb
